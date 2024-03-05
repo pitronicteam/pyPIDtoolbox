@@ -3,9 +3,7 @@ Clone &amp; Python porting of https://github.com/bw1129/PIDtoolbox created by Br
 
 ### Setup environment
 ```
-sudo apt install git python3 pip3 jupyter-core
-pip install nbconvert
-pip install ipykernel
+sudo apt install git python3 jupyter-core python3-nbconvert python3-ipykernel
 
 git clone https://github.com/pitronicteam/pyPIDtoolbox.git
 cd pyPIDtoolbox
